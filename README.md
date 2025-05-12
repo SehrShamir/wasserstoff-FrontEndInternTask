@@ -1,4 +1,4 @@
-# Ticket Generator UI 
+# Component library SDK
 
 A clean, reusable component-based ticket generation UI. Created from scratch with "TypeScript", "React", and "CSS Modules",
 
