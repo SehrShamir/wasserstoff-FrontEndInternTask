@@ -12,8 +12,10 @@ Developed with React + TypeScript
 Clean, readable, and DRY code
 
 Screenshots
+Form Page (User Input)
+![image alt](https://github.com/SehrShamir/wasserstoff-FrontEndInternTask/blob/master/Screenshot%202025-05-13%20014108.png?raw=true)
 
- Form Page (User Input)
+ 
 
 
 Ticket Page (Generated Confirmation)
