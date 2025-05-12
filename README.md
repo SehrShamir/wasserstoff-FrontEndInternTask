@@ -1,4 +1,4 @@
-Ticket Generator UI 
+#Ticket Generator UI 
 
 A clean, reusable component-based ticket generation UI. Created from scratch with "TypeScript", "React", and "CSS Modules",
 
@@ -19,3 +19,4 @@ Form Page (User Input)
 
 
 Ticket Page (Generated Confirmation)
+![image alt](https://github.com/SehrShamir/wasserstoff-FrontEndInternTask/blob/master/Screenshot%202025-05-13%20014149.png?raw=true)
