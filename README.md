@@ -5,15 +5,10 @@ A clean, reusable component-based ticket generation UI. Created from scratch wit
 Features
 
 Reusable, self-contained components
-
 Fully custom UI using pure CSS (no external UI libraries)
-
 Avatar upload with preview
-
 User detail ticket generation
-
 Developed with React + TypeScript
-
 Clean, readable, and DRY code
 
 Screenshots
