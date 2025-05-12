@@ -1,0 +1,51 @@
+/* components/Ticket/Ticket.module.css */
+.ticket {
+  display: flex;
+  align-items: center;
+  border: 2px solid #4b5563;
+  border-radius: 1rem;
+  padding: 1rem;
+  background-color: #1f2937;
+  color: #f9fafb;
+  max-width: 500px;
+  margin: 1rem auto;
+}
+
+.avatarSection {
+  margin-right: 1rem;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #9ca3af;
+}
+
+.infoSection {
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.email {
+  font-size: 0.875rem;
+  color: #d1d5db;
+  margin: 0.25rem 0;
+}
+
+.github {
+  font-size: 0.875rem;
+  color: #60a5fa;
+  text-decoration: none;
+}
+
+.github:hover {
+  text-decoration: underline;
+}
